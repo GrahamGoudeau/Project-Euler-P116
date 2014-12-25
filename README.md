@@ -2,6 +2,7 @@ Project-Euler-P116
 ==================
 
 Solution to problem 116 on Project Euler (https://projecteuler.net/problem=116)
+
 This was the 6904th solution submitted to the website.
 
 The algorithm consists of simple combinatorics.  The program finds the new number of tiles in a row
